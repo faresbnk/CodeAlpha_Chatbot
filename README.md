@@ -2,26 +2,26 @@
 
 Task 4 of the CodeAlpha Python Programming Internship: a basic rule-based chatbot.
 
-## Features
+## Features 🧩
 - Replies to greetings, "how are you", name questions, thanks, and goodbye
 - Case-insensitive and ignores punctuation ("Hello!" works the same as "hello")
 - Friendly fallback message for anything it doesn't understand
 - Runs in a loop until the user says "bye"
 
-## How to run
+## How to run ▶️
 ```bash
 python chatbot.py
 ```
 
-## Example
+## Example 📄
 ```
 You: hello
-CodeAlpha Bot: Hi!
+-> CodeAlpha Bot: Hi!
 You: how are you?
-CodeAlpha Bot: I'm fine, thanks!
+-> CodeAlpha Bot: I'm fine, thanks!
 You: bye
-CodeAlpha Bot: Goodbye!
+-> CodeAlpha Bot: Goodbye!
 ```
 
-## Concepts used
+## Concepts used 🧱
 `if-elif`, functions, `while` loops, input/output
